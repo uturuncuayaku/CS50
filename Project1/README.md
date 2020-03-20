@@ -67,11 +67,9 @@ We need to print one line at a time.
 ## WHY?!
 Standard output(console window) doesn't support graphical support unless your using other C libraries and functions. In, order for our program to print it will print in the window one character at a time from the left most edge after your command prompt and command input has been entered and processed by the bash shell.  
 
-```
 Mario
 | Loop 1 | Loop 2 | Loop 3 | Loop 4 |
 |--- | --- | --- | --- |
 | .......... | # | .. | # |
-```
 
 
