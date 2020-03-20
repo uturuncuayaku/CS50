@@ -54,11 +54,11 @@ The inner loop would be our columns or characters.
 ---
 As we step through our condition saying we want to start from 0 and progress an iteration as long as our variable named 'i' is less than but not equal to the height, we will increase the value by one during each loop.  
 Top of the loop tests the base condition. The bottom of the loop will return to check the base condition. We can imagine the curly braces as directing the flow or keeping our iterative functionality alive or in scope of the computers CPU for only as long as our base condition is true.  
-# Iteration Number 1
+# Iteration Number 1  
 'i' is equal to zero. That's possible albeit very weird because I start counting at 1.  
 Is 'i < height' ? 
 Sure for now.
----
+
 ## Inner loop 
 'j' is equal to zero. That's possible albeit very weird because I start counting at 1.
 Is 'j < height - i' ?
